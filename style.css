@@ -1,0 +1,53 @@
+/* Modify stuff for the entire body (h1) */
+head {
+    background-color: white;
+}
+
+body {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+h1 {color: 343a40;
+    font-style: normal;
+}
+
+h2 {color: 343a40;
+   font-style: normal;
+}
+
+h3 {color: 343a40;
+    font-style: normal;
+}
+
+/* Modify stuff for all paragraphs (p) */
+p {
+    color: 343a40;
+}
+
+li {
+    color: 343a40;
+}
+
+
+/* Modify the Jumbotron */
+.jumbotron {
+    /* Background */
+    background-image: url(HomePageCoolInsects.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    /* Fonts */
+    /* The text-shadow helps the white text stand out better on a darker background */
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    font-family: Bangers;
+  }
+
+.grid {
+    background-color: white;
+}
+
+.bottombanner{
+    color: white;
+}
